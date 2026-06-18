@@ -182,3 +182,102 @@ Through this project, the following concepts were implemented:
 Gowsalya
 
 Mini Project – Inventory Management System
+
+
+---
+
+## Output Screenshots
+
+### Login Screen
+
+![Login Screen](Output/Login.png)
+
+**Description:** User authentication screen where users enter their username and password to access the system.
+
+---
+
+### Main Menu
+
+![Main Menu](Output/Mainmenu.png)
+
+**Description:** Main dashboard that provides access to Product Management, Sales Management, Report Generation, and User Management modules.
+
+---
+
+### Product Management
+
+![Product Management](Output/Manage_products.png)
+
+**Description:** Allows users to add, view, and delete products. Displays product barcode, name, price, quantity, and category.
+
+---
+
+### User Management
+
+![User Management](Output/manageusers.png)
+
+**Description:** Admin module used to manage system users and assign roles.
+
+---
+
+### User Added Successfully
+
+![User Added Successfully](Output/manageusers1.png)
+
+**Description:** Confirmation message displayed after successfully adding a new user to the system.
+
+---
+
+### Record Sales Screen
+
+![Record Sales Screen](Output/record sales.png)
+
+**Description:** Interface used to record product sales by entering the product barcode and quantity sold.
+
+---
+
+### Sale Recorded Successfully
+
+![Sale Recorded Successfully](Output/record sales1.png)
+
+**Description:** Confirmation message displayed after a sale transaction is successfully recorded.
+
+---
+
+### Reports Module
+
+![Reports Module](Output/reportgenerate.png)
+
+**Description:** Displays sales transactions and inventory details for report generation.
+
+---
+
+### Report Generated Successfully
+
+![Report Generated Successfully](Output/reportgenerate1.png)
+
+**Description:** Notification shown after the PDF report is generated successfully.
+
+---
+
+### Generated PDF File
+
+![Generated PDF File](Output/reportgenerate2.png)
+
+**Description:** Shows the generated Inventory Report PDF file saved in the project directory.
+
+---
+
+### PDF Report Preview
+
+![PDF Report Preview](Output/reportgenerate3.png)
+
+**Description:** Preview of the generated PDF report containing sales transactions and stock availability information.
+
+---
+
+## Conclusion
+
+The Inventory Management System successfully demonstrates the implementation of Java Swing GUI development, JDBC database connectivity, MySQL database management, user authentication, inventory control, sales tracking, and PDF report generation. The project provides an efficient solution for managing inventory operations and serves as a practical application of object-oriented programming and database concepts.
+
+---
